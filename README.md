@@ -1,6 +1,6 @@
 ## Angaben gemäß § 5 DDG
 
-Verantwortlich für eigene Inhalte auf [github.com/buchwandler](https://github.com/schreibatlas):<br>
+Verantwortlich für eigene Inhalte auf [github.com/schreibatlas](https://github.com/schreibatlas):<br>
 Holger Nahrstaedt<br>
 c/o GAM<br>
 Pappelallee 64<br>
